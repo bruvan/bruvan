@@ -4,7 +4,6 @@
 
 I'm a student at DPS Sushant Lok and the president of the school's tech club <a href="https://github.com/ncryptdpssl">nCrypt</a>. My primary interests include exploring and designing. I love to solve physics and logical reasoning problems from time to time. I'm getting into code :)
 
-<br>
 
 ## Find me around the web 🌎
 - Website: <a href="https://www.bhuvanyadav.com">bhuvanyadav.com</a>
