@@ -1,8 +1,6 @@
 # Hi there, I'm Bhuvan 👋
 
-<img src="Student.png" style="object-fit:contain;
-                              width:600px;
-                              height:375px"/>
+<img src="Untitled design-2.png">
 <!--
 **bruvan/bruvan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
