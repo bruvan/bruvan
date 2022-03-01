@@ -1,6 +1,8 @@
 # Hi there, I'm Bhuvan 👋
 
 <img src="Untitled design-2.png">
+
+I'm a student at DPS Sushant Lok and the president at the school's tech club <a href="https://github.com/ncryptdpssl">nCrypt</a>
 <!--
 **bruvan/bruvan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
