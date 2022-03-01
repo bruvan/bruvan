@@ -1,4 +1,4 @@
-## Hi there, I'm Bhuvan 👋
+# Hi there, I'm Bhuvan 👋
 
 <!--
 **bruvan/bruvan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
