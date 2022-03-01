@@ -2,7 +2,7 @@
 
 <img src="Untitled design-2.png">
 
-I'm a student at DPS Sushant Lok and the president of the school's tech club <a href="https://github.com/ncryptdpssl">nCrypt</a>. Ever since, I began Design in middle school... it has become my passion. My primary interests include exploring and designing. I love physics and logical reasoning.
+I'm a student at DPS Sushant Lok and the president of the school's tech club <a href="https://github.com/ncryptdpssl">nCrypt</a>. My primary interests include exploring and designing. I love to solve physics and logical reasoning problems from time to time. I'm getting into code :)
 
 <!--
 **bruvan/bruvan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
