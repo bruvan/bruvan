@@ -3,7 +3,7 @@
 <img src="Untitled design-2.png">
 
 
-I'm a student at DPS Sushant Lok and the president of the school's tech club <a href="https://github.com/ncryptdpssl">nCrypt</a>. My primary interests include exploring and designing. I love to solve physics and logical reasoning problems from time to time. I started to code as it fascinates me to a great deal.
+I'm a student at DPS Sushant Lok and the president of the school's tech club <a href="https://github.com/ncryptdpssl">nCrypt</a>. My primary interests include exploring and designing. I love to solve physics and logical reasoning problems from time to time. I started to code as it fascinates me a lot :)
 
 
 ## Find me around the web 🌎
