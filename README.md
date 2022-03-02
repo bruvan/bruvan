@@ -7,6 +7,6 @@ I'm a student at DPS Sushant Lok and the president of the school's tech club <a 
 
 
 ## Find me around the web 🌎
-- Website: <a href="https://www.bhuvanyadav.com">bhuvanyadav.com</a>
+- Website: <a href="https://bhuvanyadav.com">bhuvanyadav.com</a>
 - Design Projects at <a href="https://www.behance.net/bhuvanyadav">Behance</a>
 - Mail: <a href="mailto:bhuvanyadavv@gmail.com">bhuvanyadavv@gmail.com</a>
